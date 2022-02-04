@@ -1,1 +1,1 @@
-# get-scripts
+# geth-scripts
